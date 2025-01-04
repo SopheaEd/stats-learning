@@ -11,6 +11,10 @@
 4. Multistage sampling
 5. Systematic sampling
 
+## Class-Note
+- Random numbers
+- 
+
 
 
 
