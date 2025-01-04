@@ -45,7 +45,7 @@ $$ z = \frac{X-\mu}{\sigma}
 - $\mu$: Mean
 - $\sigma$: standard diviation
 
-- The $z$ _value_ or $z-score$ is actually the number of __standard diviations that a particular $X$ value is away from the __mean__.
+- The $z$ _value_ or $z-score$ is actually the number of __standard diviations__ that a particular $X$ value is away from the __mean__.
 
 ### How to find areas under the standard normal distribution curve?
 1. Draw the normal distribution curve and shade the area
