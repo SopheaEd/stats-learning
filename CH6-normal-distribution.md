@@ -39,7 +39,7 @@ $$y = \frac{e^{-z^2/2}}{\sqrt{2\pi}}$$
 
 - __All Normal distributed variables__ can be transformed into the __standard normally distributed variable__ by using formula called __standard score__:
 
-$$ z = \frac{X-\mu}{\sigma}
+$$ z = \frac{X-\mu}{\sigma}$$
 
 - $X$: Value
 - $\mu$: Mean
