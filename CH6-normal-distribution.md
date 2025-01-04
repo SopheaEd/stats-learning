@@ -32,7 +32,29 @@ __normal distribution properties__
 ```
 ### The standard Normal Distribution
 - The standard normal distribution is a normal distribution with a mean of $0$ and standard diviation of $1$.
-- 
+- The standard normal distribution is the __value__ under the curve indicate that proportion of area in each section.
+- Math func for the standard normal distribution
+
+$$y = \frac{e^{-z^2/2}}{\sqrt{2\pi}}$$
+
+- __All Normal distributed variables__ can be transformed into the __standard normally distributed variable__ by using formula called __standard score__:
+
+$$ z = \frac{X-\mu}{\sigma}
+
+- $X$: Value
+- $\mu$: Mean
+- $\sigma$: standard diviation
+
+- The $z$ _value_ or $z-score$ is actually the number of __standard diviations that a particular $X$ value is away from the __mean__.
+
+### How to find areas under the standard normal distribution curve?
+1. Draw the normal distribution curve and shade the area
+2. Find the appropriate figure in the Procedure Table and follow the directions given.
+
+__Procedure__ 
+1. To the left of any z value: Look up the z value in the table and use the area give
+2. To the right of any z value: Look up the z value and **subtract** the area from 1.
+3. Between any two z value: Look up both z value and substract the corresponding areas.
 
 
 
