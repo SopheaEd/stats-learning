@@ -1,1 +1,1 @@
-# stats-learning
+# Statistic Learning Note
