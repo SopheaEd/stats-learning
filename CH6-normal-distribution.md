@@ -11,8 +11,10 @@ use the approximation to compute prob. for binomial variables
 ```
 ## Normal distributions
 The math function of normal distribution:
-- $y = \frac{e^{-(X-\mu)^2/2\sigma^2}}{\sigma \sqrt2\pi}$
-- where
+
+$$y = \frac{e^{-(X-\mu)^2/2\sigma^2}}{\sigma \sqrt{2\pi}}$$
+
+- Where
   - $e \sim 2.718$
   - $\pi \sim 3.14$
   - $\mu$ = population mean
